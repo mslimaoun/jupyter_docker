@@ -22,7 +22,7 @@ docker run -it -p 8888:8888  -d -v $(pwd)/notebooks:/notebooks python_data_scien
 ```sh 
 mkdir  netbooks 
 ```
-- pull and run the docker image
+- Pull and run the docker image
 ```sh 
-docker run -it -p 8888:8888  -d -v $(pwd)/notebooks:/notebooks mslimaoun/python_data_science
+docker run -it -p 8888:8888  -d -v $(pwd)/notebooks:/notebooks medslimaoun/python_data_science
 
